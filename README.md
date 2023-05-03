@@ -1,16 +1,9 @@
 # flutter_tusi_couple_animation
 
-A new Flutter project.
+A flutter version of Tusi Couple, the implemention is the same of https://github.com/naveenchandan/Tusi-Couple
 
-## Getting Started
+## video 
 
-This project is a starting point for a Flutter application.
+![](Simulator Screen Recording - iPhone 14 Pro Max - 2023-05-03 at 11.29.37.mp4)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
